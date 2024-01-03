@@ -22,7 +22,7 @@
 # declare multiple variable
 # firstName, lastName = "Tanvir", "Hasan"
 # print(firstName, lastName)
-a = b = c = 5
+# a = b = c = 5
 # print(a, b, c)
 
 
@@ -34,3 +34,16 @@ a = b = c = 5
 # print(name.isalpha())
 # print(name.count('n'))
 # print(name.replace("a","z"))
+
+
+# type casting
+x = 1
+x1 = float(x)
+print(x1)
+y = 2.5
+z = '3'
+z1 = int(z)
+print(z1, type(z1))
+# print(x)
+# print(y)
+# print(z)
